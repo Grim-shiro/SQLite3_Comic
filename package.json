@@ -1,0 +1,15 @@
+{
+  "name": "apirachandrakumar_comp3005_final",
+  "version": "1.0.0",
+  "description": "Website to add and filter through given manga database",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Apira Chandrakumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
